@@ -3,6 +3,7 @@ jobs:
 
     runs-on: self-hosted
 
+
     steps:
     - name: Install Power Platform Tools
       uses: microsoft/powerplatform-actions/actions-install@v1
